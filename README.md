@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
-**cybernuclei/cybernuclei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner de stickers](/assets/imagenes/hero_banner.jpeg)
 
-Here are some ideas to get you started:
+---
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📬 Contacto:
+- [Correo](srojas@cybernuclei.com)
