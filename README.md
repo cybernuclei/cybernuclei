@@ -10,7 +10,7 @@
 
 <!-- Badges -->
 <p align="center">
-  [<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>](#)
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>(#)
   [<img src="https://img.shields.io/badge/Terraform-%234623AB.svg?style=for-the-badge&logo=terraform&logoColor=white"/>](#)
   [<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>](#)
   [<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>](#)
