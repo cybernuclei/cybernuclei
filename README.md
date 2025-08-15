@@ -19,6 +19,8 @@
 
 ---
 
+<!--
+
 ## 🚀 Proyectos Destacados
 
 ### ☁ Cloud & IaC
@@ -30,6 +32,7 @@
 - [AWS Security Labs](https://github.com/cybernuclei/aws-security-labs) – Laboratorios prácticos de seguridad en AWS.
 
 ---
+-->
 
 ## 📫 Conecta Conmigo
 <p align="center">
