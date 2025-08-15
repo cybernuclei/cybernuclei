@@ -19,6 +19,32 @@
   <img src="https://img.shields.io/badge/Security-%23FF5555.svg?style=for-the-badge"/>
 </p>
 
+---
+
+## 🚀 Proyectos Destacados
+
+### ☁ Cloud & IaC
+- [Terraform AWS Labs](https://github.com/cybernuclei/terraform-aws-labs) – Laboratorios y demos de AWS con Terraform.
+- [Docker & Kubernetes](https://github.com/cybernuclei/docker-k8s) – Ejemplos de despliegue de aplicaciones en Kubernetes.
+
+### 🔐 Seguridad & Bug Bounty
+- [Cloud Bug Bounty Scripts](https://github.com/cybernuclei/cloud-bug-bounty) – Scripts de reconocimiento y explotación en entornos cloud.
+- [AWS Security Labs](https://github.com/cybernuclei/aws-security-labs) – Laboratorios prácticos de seguridad en AWS.
+
+---
+
+## 📫 Conecta Conmigo
+<p align="center">
+  <a href="mailto:samuel@tuemail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/samuelrojas">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/cybernuclei">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
