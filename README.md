@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <p align="center">
   <img src="/assets/imagenes/hero_banner.jpeg" alt="Banner" width="100%"/>
